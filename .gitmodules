@@ -1,3 +1,6 @@
 [submodule "S3_DeformFDM"]
 	path = S3_DeformFDM
 	url = https://github.com/zhangty019/S3_DeformFDM.git
+[submodule "S4_Slicer"]
+	path = S4_Slicer
+	url = https://github.com/jyjblrd/S4_Slicer.git
