@@ -1,3 +1,3 @@
-# Infill and Perimeter Generation for Nonplanar Slicign
+# Infill and Perimeter Generation for Nonplanar Slicing
 
 See .submodules for referenced repos
